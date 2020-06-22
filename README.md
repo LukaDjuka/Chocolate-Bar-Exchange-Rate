@@ -7,7 +7,7 @@ This program uses Tkinter to present the user with a simple GUI used for inputti
 The program also provides the user with the option to show approximately how many Chocolate Bars can be purchased with the 
 exchanged currency (in countries where the selected currency is commonly used).
 
-Information about the pricing of chocolate bars in various countries was found using an estimations based on the "cost of living" 
+Information about the pricing of chocolate bars in various countries was found using estimations based on the "cost of living" 
 statistics supplied by [numbeo](https://www.numbeo.com/cost-of-living/).
 
 ## API NOTE
